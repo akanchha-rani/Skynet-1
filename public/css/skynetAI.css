@@ -13,7 +13,10 @@
  .skynet-container {
    position: relative;
  }
-
+  a{
+    text-decoration: none !important;
+    color: inherit !important;
+  }
  .dropdown-cont {
    display: none;
    position: absolute;
